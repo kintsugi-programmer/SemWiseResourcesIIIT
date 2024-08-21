@@ -146,6 +146,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Drawing Use Case Diagrams](https://www.youtube.com/watch?v=zid-MVo7M-E)
 
 ### OS
+- [Operating Systems (OS) Lectures Mythili Vutukuru](https://youtube.com/playlist?list=PLDW872573QAb4bj0URobvQTD41IV6gRkx&si=x91ZubYpFa4V3KPh)
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
 - [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keswani 2020158)](https://github.com/Yash-Keswani)
 - [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
